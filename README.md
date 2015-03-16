@@ -1,0 +1,2 @@
+# flatlandersstore
+Angular project repo
